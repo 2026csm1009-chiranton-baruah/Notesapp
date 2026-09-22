@@ -119,7 +119,7 @@ If the project is hosted in a Git repository:
 
 ```bash
 git clone <repository-url>
-cd notes-app
+cd Notesapp
 ```
 
 Alternatively, simply place `notes.py` in a directory of your choice.
